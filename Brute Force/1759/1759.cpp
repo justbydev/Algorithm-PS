@@ -1,3 +1,6 @@
+/*1759*/
+/*Brute force*/
+/*Comtination*/
 #include<iostream>
 #include<string>
 using namespace std;
